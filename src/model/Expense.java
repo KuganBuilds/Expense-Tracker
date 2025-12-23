@@ -9,8 +9,7 @@ public class Expense {
     private long amount;
     private LocalDate date;
 
-    public Expense(long id, String description, long amount, LocalDate date) {
-        this.id = id;
+    public Expense( String description, long amount, LocalDate date) {
         this.description = description;
         this.amount = amount;
         this.date = date;

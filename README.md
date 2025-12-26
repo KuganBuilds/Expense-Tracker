@@ -1,7 +1,5 @@
 Expense Tracker – Java CLI Application
 
-Project URL : https://roadmap.sh/projects/expense-tracker
-
 A simple Command Line Expense Tracker built using Core Java.
 This project demonstrates clean architecture, proper layering,
 and real-world input validation using a console-based interface.
